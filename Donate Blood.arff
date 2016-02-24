@@ -4,7 +4,7 @@
 @attribute Frequency real
 @attribute Monetary real
 @attribute Time real
-@attribute ‘whether he/she donated blood in March 2007’ {0,1}
+@attribute donate {0,1}
 
 @data
 2 ,50,12500,98 ,1
