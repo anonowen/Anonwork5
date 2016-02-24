@@ -1,4 +1,4 @@
-@relation Donate Blood
+@relation Donate
 
 @attribute Recency real
 @attribute Frequency real
